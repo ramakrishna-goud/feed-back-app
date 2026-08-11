@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Feedback
 
 React frontend + Python FastAPI backend sample application.
@@ -40,3 +41,6 @@ Frontend: http://localhost:5173
 - CORS
 
 > This learning version stores data in memory, so data resets when the backend restarts.
+=======
+# feed-back-app
+>>>>>>> 5ed9d29aaeb60693989a17dd46897f57b6cd3f1b
